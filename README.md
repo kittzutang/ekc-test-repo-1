@@ -7,3 +7,4 @@
 
 This is a very simple repository; we could have had a *lot* more files.
 **bold test
+**bold**
